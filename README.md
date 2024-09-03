@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Software Developer from India.</h3>
 <h2>🔭 I’m currently learning Full Stack Developement. </h2>
 <h2>🌱 I’m interested in Web Developement or Frontend Developer.</h2>
-- Portfolio :- [https://avinash746.github.io/]
+
+  Portfolio :- [https://avinash746.github.io/]
 
 - 📫 How to reach me **anish95380@gmail.com**
 
@@ -17,4 +18,4 @@
 
 ## 💻 Languages and Tools:
 
-[![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs,react,tailwindcss,mongodb,mysql,aws,vscode,idle)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,bootstrap,nodejs,react,tailwindcss,mongodb,mysql,aws,vscode,idle)](https://skillicons.dev)<br/>
