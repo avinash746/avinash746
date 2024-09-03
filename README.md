@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0ae03250-373c-4200-acc7-25fb35d5882a">
 <h4>🔭 I’m currently learning Full Stack Developement. </h4>
 <h4>🌱 I’m interested in Web Developement or Frontend Developer.</h4>
-<img align="center" alt="coding" width="40" src="https://github.com/user-attachments/assets/5d93fca6-dbfa-4fbe-9ae8-7a5be1be7e82">
+<img align="center" alt="coding" width="20" src="https://github.com/user-attachments/assets/5d93fca6-dbfa-4fbe-9ae8-7a5be1be7e82">
  :- https://avinash746.github.io/
 
 - 📫 How to reach me:- **anish95380@gmail.com**
@@ -14,7 +15,12 @@
 <p align="left">
 <a href="https://linkedin.com/in/avinash kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash kumar" height="30" width="40" /></a>
 </p>
+<br>
 
+<!-- Green Line SVG -->
+![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
+![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
+![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
 ## 💻 Languages and Tools:
 
 [![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,bootstrap,nodejs,react,tailwindcss,mongodb,mysql,aws,vscode,idle)](https://skillicons.dev)<br/>
