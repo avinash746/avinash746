@@ -20,10 +20,10 @@
 <!-- Green Line SVG -->
 ![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
 ![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
-![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
+<br>
 ## 💻 Languages and Tools:
 
 [![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,bootstrap,nodejs,react,tailwindcss,mongodb,mysql,aws,vscode,idle)](https://skillicons.dev)<br/>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash746&" alt="avinash746" /></p>
 <p><img align="right bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash746&show_icons=true&locale=en&layout=compact" alt="avinash746" /></p>
