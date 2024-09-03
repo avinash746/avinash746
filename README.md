@@ -4,8 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0ae03250-373c-4200-acc7-25fb35d5882a">
 <h4>🔭 I’m currently learning Full Stack Developement. </h4>
 <h4>🌱 I’m interested in Web Developement or Frontend Developer.</h4>
-<img align="center" alt="coding" width="20" src="https://github.com/user-attachments/assets/5d93fca6-dbfa-4fbe-9ae8-7a5be1be7e82">
- :- https://avinash746.github.io/
+
 
 - 📫 How to reach me:- **anish95380@gmail.com**
 
