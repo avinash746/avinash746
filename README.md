@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/avinash kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash kumar" height="30" width="40" /></a>
 </p>
 <br>
+<br>
 
 <!-- Green Line SVG -->
 ![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
