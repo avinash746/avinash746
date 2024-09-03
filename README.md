@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
-<h2>🔭 I’m currently learning Full Stack Developement. </h2>
-<h2>🌱 I’m interested in Web Developement or Frontend Developer.</h2>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0ae03250-373c-4200-acc7-25fb35d5882a">
+<h4>🔭 I’m currently learning Full Stack Developement. </h4>
+<h4>🌱 I’m interested in Web Developement or Frontend Developer.</h4>
+<img align="center" alt="coding" width="40" src="https://github.com/user-attachments/assets/5d93fca6-dbfa-4fbe-9ae8-7a5be1be7e82">
+ :- https://avinash746.github.io/
 
-  Portfolio :- [https://avinash746.github.io/]
-
-- 📫 How to reach me **anish95380@gmail.com**
+- 📫 How to reach me:- **anish95380@gmail.com**
 
 - 📫 Contact No:- **+91-9334717448**
-
-- 📄 Know about my Experiences [https://drive.google.com/file/d/1ENkkaRXQ2AILu4cCKF7GywVfejC1A3os/view?usp=sharing](https://drive.google.com/file/d/1ENkkaRXQ2AILu4cCKF7GywVfejC1A3os/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +18,6 @@
 ## 💻 Languages and Tools:
 
 [![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,bootstrap,nodejs,react,tailwindcss,mongodb,mysql,aws,vscode,idle)](https://skillicons.dev)<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash746&" alt="avinash746" /></p>
+<p><img align="right bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash746&show_icons=true&locale=en&layout=compact" alt="avinash746" /></p>
