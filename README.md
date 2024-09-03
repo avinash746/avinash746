@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0ae03250-373c-4200-acc7-25fb35d5882a">
+<br>
 <h4>🔭 I’m currently learning Full Stack Developement. </h4>
 <h4>🌱 I’m interested in Web Developement or Frontend Developer.</h4>
 
+<br>
 
 - 📫 How to reach me:- **anish95380@gmail.com**
 
