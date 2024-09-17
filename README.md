@@ -31,3 +31,4 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash746&" alt="avinash746" /></p> -->
 
 <p><img align="right bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash746&show_icons=true&locale=en&layout=compact" alt="avinash746" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=avinash746&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
