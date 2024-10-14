@@ -25,7 +25,7 @@
 <br>
 ## 💻 Languages and Tools:
 
-[![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,git,bootstrap,nodejs,nextjs,react,vite,tailwindcss,mongodb,mysql,aws,vscode,firebase,netlify,jupternotebook)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,git,bootstrap,nodejs,nextjs,react,vite,tailwindcss,mongodb,mysql,aws,vscode,firebase,netlify,postman,jupternotebook)](https://skillicons.dev)<br/>
 <br>
 <!-- Remove this line -->
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash746&" alt="avinash746" /></p> 
