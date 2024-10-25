@@ -12,10 +12,10 @@
 
 - 📫 Contact No:- **+91-9334717448**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/avinash kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash kumar" height="30" width="40" /></a>
-</p>
+<!-- <h3 align="left">Connect with me:</h3> -->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-kumar-085321222/)
+
 <br>
 
 
@@ -23,12 +23,20 @@
 ![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
 ![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
 <br>
-## 💻 Languages and Tools:
+# 💻 Tech Stack:
 
 [![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,git,bootstrap,nodejs,nextjs,react,vite,tailwindcss,mongodb,mysql,aws,vscode,firebase,netlify,postman,jupternotebook)](https://skillicons.dev)<br/>
 <br>
 <!-- Remove this line -->
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash746&" alt="avinash746" /></p> 
 
-<p><img align="right bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash746&show_icons=true&locale=en&layout=compact" alt="avinash746" /></p>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=avinash746&theme=dark&hide_border=false)<br/> -->
 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash746&" alt="avinash746" /></p> -->
+
+<!-- <p><img align="right bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash746&show_icons=true&locale=en&layout=compact" alt="avinash746" /></p> -->
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=avinash746&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=avinash746&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash746&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
