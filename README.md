@@ -25,7 +25,7 @@ Hi 👋, I'm Avinash Kumar<br><br>- A passionate Full-Stack MERN developer from 
 <!-- Green Line SVG -->
 ![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
 ![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
-<br>
+
 # 💻 Tech Stack:
 
 [![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,git,bootstrap,nodejs,nextjs,react,vite,tailwindcss,mongodb,mysql,aws,vscode,firebase,netlify,postman,jupternotebook)](https://skillicons.dev)<br/>
