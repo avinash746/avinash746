@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-Hi 👋, I'm Avinash Kumar<br><br>- A passionate Full-Stack MERN developer from India 🚀<br>- Love to solve problems and optimize them 💯<br>- Currently building avinash746 ❤️<br><br>
+Hi 👋, I'm Avinash Kumar<br><br>- A passionate Full-Stack MERN developer from India 🚀<br>- Love to solve problems and optimize them 💯<br>- Currently building avinash746 ❤️
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0ae03250-373c-4200-acc7-25fb35d5882a">
 <!-- <h1 align="center">Hi 👋, I'm Avinash Kumar</h1> -->
 <!-- <h3 align="center">A passionate Software Developer from India.</h3> -->
 <!-- <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/0ae03250-373c-4200-acc7-25fb35d5882a"> -->
