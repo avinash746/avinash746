@@ -20,7 +20,8 @@
 
 <!-- ## 🌐 Socials: -->
 ### 🌈 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-kumar-085321222/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avinashkr7462/) [![Portfolio](https://img.shields.io/badge/Portfolio-%B0354CF.svg?logo=Portfolio&logoColor=white)](https://sunny-longma-f25666.netlify.app/) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/anish95380@gmail.com/#compose) [![Phone](https://img.shields.io/badge/Phone-933--471--7448-blue?logo=phone&logoColor=white)](tel:+91-9334717448)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-kumar-085321222/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avinashkr7462/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23B0354CF.svg?logo=internet-explorer&logoColor=white)](https://sunny-longma-f25666.netlify.app/)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/anish95380@gmail.com/#compose) [![Phone](https://img.shields.io/badge/Phone-933--471--7448-blue?logo=phone&logoColor=white)](tel:+91-9334717448)
 
 
 <br>
