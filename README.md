@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="450"/>
+</div>
+
 # 💫 About Me:
 
 Hi 👋, I'm Avinash Kumar<br><br>- A passionate Full-Stack MERN developer from India 🚀<br>- Love to solve problems and optimize them 💯<br>- Currently building avinash746 ❤️
