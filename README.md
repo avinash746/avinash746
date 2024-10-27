@@ -23,7 +23,8 @@ Hi 👋, I'm Avinash Kumar<br><br>- A passionate Full-Stack MERN developer from 
 
 <!-- ## 🌐 Socials: -->
 ### 🌈 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-kumar-085321222/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avinashkr7462/) [![Portfolio](https://img.shields.io/badge/Portfolio-%B0354CF.svg?logo=Instagram&logoColor=white)](https://sunny-longma-f25666.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-kumar-085321222/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avinashkr7462/) [![Portfolio](https://img.shields.io/badge/Portfolio-%B0354CF.svg?logo=Portfolio&logoColor=white)](https://sunny-longma-f25666.netlify.app/) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:anish95380@gmail.com)
+
 
 <br>
 
