@@ -16,8 +16,10 @@ Hi 👋, I'm Avinash Kumar<br><br>- A passionate Full-Stack MERN developer from 
 - 📫 Contact No:- **+91-9334717448**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-kumar-085321222/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avinashkr7462/)
+
+<!-- ## 🌐 Socials: -->
+### 🌈 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-kumar-085321222/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avinashkr7462/) [![Portfolio](https://img.shields.io/badge/Portfolio-%B0354CF.svg?logo=Instagram&logoColor=white)](https://sunny-longma-f25666.netlify.app/)
 
 <br>
 
