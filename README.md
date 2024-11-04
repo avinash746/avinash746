@@ -51,3 +51,5 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash746&theme=synthwave-84&true&hide_border=true" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=avinash746&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
