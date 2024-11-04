@@ -26,10 +26,10 @@
 
 <br>
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <!-- Green Line SVG -->
-![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
-![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif)
+<!-- ![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif) -->
+<!-- ![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif) -->
 
 # 💻 Tech Stack:
 
