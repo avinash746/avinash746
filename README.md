@@ -33,7 +33,9 @@
 
 # 💻 Tech Stack:
 
-[![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,git,bootstrap,nodejs,nextjs,react,vite,tailwindcss,mongodb,mysql,aws,vscode,firebase,github,vercel,netlify,postman,jupyter,docker,go)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,git,bootstrap,nodejs,nextjs,react,vite,tailwindcss,mongodb,mysql,aws,vscode,firebase,github,vercel,netlify,postman,docker,go)](https://skillicons.dev)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" style="vertical-align:middle;"/>
+
 
 <br>
 <!-- Remove this line -->
