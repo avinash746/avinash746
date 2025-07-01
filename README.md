@@ -33,8 +33,35 @@
 
 # 💻 Tech Stack:
 
-[![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,git,bootstrap,nodejs,nextjs,react,vite,tailwindcss,mongodb,mysql,aws,vscode,firebase,github,vercel,netlify,postman,docker,go,<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" style="vertical-align:middle;"/>)](https://skillicons.dev)
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" style="vertical-align:middle;"/>
+<!-- [![SkillIcons](https://skillicons.dev/icons?i=python,js,ts,html,css,git,bootstrap,nodejs,nextjs,react,vite,tailwindcss,mongodb,mysql,aws,vscode,firebase,github,vercel,netlify,postman,docker,go)](https://skillicons.dev) -->
+
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="40"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vite" width="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwindcss" width="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="40"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="40"/>
+  <img src="https://skillicons.dev/icons?i=netlify" width="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40"/>
+  <img src="https://skillicons.dev/icons?i=go" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" style="vertical-align:middle; margin-left:5px;" />
+</p>
 
 
 <br>
