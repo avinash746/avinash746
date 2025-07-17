@@ -38,6 +38,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="40"/>
+  <img src="https://skillicons.dev/icons?i=django" width="40"/>
   <img src="https://skillicons.dev/icons?i=js" width="40"/>
   <img src="https://skillicons.dev/icons?i=ts" width="40"/>
   <img src="https://skillicons.dev/icons?i=html" width="40"/>
