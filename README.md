@@ -115,7 +115,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=avinash746&theme=dark&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=avinash746&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=avinash746&theme=dark&hide_border=false)<br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash746&theme=synthwave-84&true&hide_border=true" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
