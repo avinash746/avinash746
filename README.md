@@ -67,6 +67,7 @@
   <img src="https://skillicons.dev/icons?i=docker" width="40"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" width="40"/>
   <img src="https://skillicons.dev/icons?i=go" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" style="vertical-align:middle; margin-left:5px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" style="vertical-align:middle; margin-left:5px;" />
 </p>-->
 
