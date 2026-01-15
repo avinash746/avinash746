@@ -23,14 +23,18 @@
 </div>
 <!-- <h3 align="left">Connect with me:</h3> -->
 
+
 <!-- ## 🌐 Socials: -->
 ### 🌈 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-kumar-085321222/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avinashkr7462/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23B0354CF.svg?logo=internet-explorer&logoColor=white)](https://portfolio-updates-six.vercel.app/)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/anish95380@gmail.com/#compose) [![Phone](https://img.shields.io/badge/Phone-933--471--7448-blue?logo=phone&logoColor=white)](tel:+91-9334717448)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinash-kumar-085321222/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/avinashkr7462/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23B0354CF.svg?logo=internet-explorer&logoColor=white)](https://portfolio-updates-six.vercel.app/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:anish95380@gmail.com) 
+[![Phone](https://img.shields.io/badge/Phone-933--471--7448-blue?logo=phone&logoColor=white)](tel:+91-9334717448) 
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1aZDonpbeHrAIq0mbD7sCFFFT75_NueJi/view?usp=sharing)
 
 <br>
-
+ 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <!-- Green Line SVG -->
 <!-- ![Green Line gif](https://github.com/avinash746/avinash746/blob/main/Green%20Line.gif) -->
