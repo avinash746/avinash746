@@ -120,16 +120,59 @@
 
 <!-- <p><img align="right bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinash746&show_icons=true&locale=en&layout=compact" alt="avinash746" /></p> -->
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=avinash746&theme=dark&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=avinash746&theme=dark&hide_border=false)<br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash746&theme=synthwave-84&true&hide_border=true" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" /> -->
+
+# 📊 GitHub Analytics
+
+## 💻 Top Language & Commit Stats 💻
+
+<table>
+<tr>
+<td>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avinash746&theme=github_dark" />
+
+</td>
+<td>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avinash746&theme=github_dark" />
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avinash746&theme=github_dark" />
+
+</td>
+<td>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avinash746&theme=github_dark&utcOffset=5.5" />
+
+</td>
+</tr>
+</table>
+
+![](https://github-readme-stats.vercel.app/api?username=avinash746&show_icons=true&theme=github_dark&hide_border=true)<br/>
+
+![](https://streak-stats.demolab.com?user=avinash746&theme=github-dark-blue&hide_border=true)<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash746&theme=synthwave-84&true&hide_border=true" />
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=avinash746&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=avinash746&theme=algolia&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=avinash746&limit=5&theme=dark&combine_all_yearly_contributions=true)
