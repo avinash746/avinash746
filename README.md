@@ -131,33 +131,11 @@
 
 ## 💻 Top Language & Commit Stats 💻
 
-<table>
-<tr>
-<td>
+<!-- <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avinash746&theme=github_dark" />
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avinash746&theme=github_dark" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avinash746&theme=github_dark" />
-
-</td>
-<td>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avinash746&theme=github_dark" />
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avinash746&theme=github_dark" />
-
-</td>
-<td>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avinash746&theme=github_dark&utcOffset=5.5" />
-
-</td>
-</tr>
-</table>
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avinash746&theme=github_dark" />
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=avinash746&theme=github_dark&utcOffset=5.5" /> -->
 
 ![](https://github-readme-stats.vercel.app/api?username=avinash746&show_icons=true&theme=github_dark&hide_border=true)<br/>
 
