@@ -31,7 +31,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23B0354CF.svg?logo=internet-explorer&logoColor=white)](https://portfolio-updates-six.vercel.app/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:anish95380@gmail.com) 
 [![Phone](https://img.shields.io/badge/Phone-933--471--7448-blue?logo=phone&logoColor=white)](tel:+91-9334717448) 
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1aZDonpbeHrAIq0mbD7sCFFFT75_NueJi/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1MMBCFFvW7Zb7G0iAu8ARSupl9pkiUnGV/view?usp=sharing)
 
 <br>
  
