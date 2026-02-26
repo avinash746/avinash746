@@ -128,8 +128,9 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" /> -->
 
 # 📊 GitHub Analytics
-
-## 💻 Top Language & Commit Stats 💻
+<div style="display: flex;">
+    <img width="450px" height="200px" alt="avinash746's GitHub stats" src="https://github-stats-alpha.vercel.app/api?username=avinash746" />
+</div>
 
 <!-- <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avinash746&theme=github_dark" />
 <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=avinash746&theme=github_dark" />
