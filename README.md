@@ -148,10 +148,8 @@
 
 ## 🏆 GitHub Trophies
 
-[![](https://github-profile-trophy.vercel.app/?username=avinash746&theme=algolia&no-frame=false&no-bg=false&margin-w=4)](https://github-profile-trophy-fork-two.vercel.app/?username=avinash746&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=avinash746&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=avinash746&theme=algolia&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### 🔝 Top Contributed Repo
 
