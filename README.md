@@ -154,7 +154,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=avinash746&theme=algolia&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api?username=avinash746&hide=contribs&show_icons=true&count_private=true&theme=github_dark&hide_border=true)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=120&section=footer" />
